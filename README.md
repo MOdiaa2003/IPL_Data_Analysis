@@ -1,7 +1,8 @@
+# IPL Data Analysis with Databricks and AWS S3
 ![Project_Architecture](Architecture/IPL_Analysis.drawio.png)
 
 
-# IPL Data Analysis with Databricks and AWS S3
+
 
 ## Table of Contents
 1. [Overview](#overview)  
@@ -254,7 +255,3 @@ This project is licensed under the [MIT License](./LICENSE). Feel free to modify
 
 Enjoy exploring IPL data insights with Spark on Databricks!  
 
----  
-
-**Author**: Your Name  
-**Date**: 2025-04-13  
